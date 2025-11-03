@@ -24,3 +24,9 @@
 ### Многоуровневая архитектура
 
 ![Скриншот 1](https://github.com/Alple23/-Okna_MSK_bot/blob/main/81.png?raw=true)
+
+![Скриншот 2](https://github.com/Alple23/-Okna_MSK_bot/blob/main/82.png?raw=true)
+
+![Скриншот 3](https://github.com/Alple23/-Okna_MSK_bot/blob/main/83.png?raw=true)
+
+![Скриншот 4](https://github.com/Alple23/-Okna_MSK_bot/blob/main/84.png?raw=true)
